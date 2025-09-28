@@ -65,7 +65,6 @@
 }
 
 .glitch-background {
-  background-image: url('/assets/images/site/bg-black.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
