@@ -1611,7 +1611,7 @@ section,
   transition: ease-in-out 0.3s;
   width: 200px;
   height: 200px;
-  border-radius: 20%;
+  border-radius: 5%;
   border: 4px solid color-mix(in srgb, var(--default-color), transparent 85%);
   margin: 0 auto;
 }
